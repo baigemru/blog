@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>BaiGem - Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on BaiGem - Blog</description>
+    <title>БазоваяБаза on BaiGem - Blog</title>
+    <link>http://localhost:1313/tags/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%D0%B1%D0%B0%D0%B7%D0%B0/</link>
+    <description>Recent content in БазоваяБаза on BaiGem - Blog</description>
     <image>
       <title>BaiGem - Blog</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
     <lastBuildDate>Thu, 22 Jan 2026 12:42:29 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%D0%B1%D0%B0%D0%B7%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Как работает нейросеть?</title>
       <link>http://localhost:1313/posts/how-work/</link>

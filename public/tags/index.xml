@@ -11,6 +11,35 @@
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 22 Jan 2026 12:42:29 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>БазоваяБаза</title>
+      <link>http://localhost:1313/tags/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%D0%B1%D0%B0%D0%B7%D0%B0/</link>
+      <pubDate>Thu, 22 Jan 2026 12:42:29 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%D0%B1%D0%B0%D0%B7%D0%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Искусственный Интеллект</title>
+      <link>http://localhost:1313/tags/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</link>
+      <pubDate>Thu, 22 Jan 2026 12:42:29 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Нейросети</title>
+      <link>http://localhost:1313/tags/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8/</link>
+      <pubDate>Thu, 22 Jan 2026 12:42:29 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ОсновыИИ</title>
+      <link>http://localhost:1313/tags/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B8%D0%B8/</link>
+      <pubDate>Thu, 22 Jan 2026 12:42:29 +0300</pubDate>
+      <guid>http://localhost:1313/tags/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B8%D0%B8/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

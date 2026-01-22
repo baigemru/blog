@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Технологии on BaiGem - Blog</title>
+    <link>http://localhost:1313/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+    <description>Recent content in Технологии on BaiGem - Blog</description>
+    <image>
+      <title>BaiGem - Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jan 2026 12:42:29 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как работает нейросеть?</title>
+      <link>http://localhost:1313/posts/how-work/</link>
+      <pubDate>Thu, 22 Jan 2026 12:42:29 +0300</pubDate>
+      <guid>http://localhost:1313/posts/how-work/</guid>
+      <description>&lt;h3 id=&#34;-как-работает-нейросеть&#34;&gt;🤖 Как работает нейросеть?&lt;/h3&gt;
+&lt;p&gt;Нейросети находят закономерности в данных и генерируют текст, изображения, звук. Но как именно?&lt;/p&gt;
+&lt;h3 id=&#34;-откуда-берутся-ответы&#34;&gt;🔍 Откуда берутся ответы&lt;/h3&gt;
+&lt;p&gt;Когда ты отправляешь запрос, нейросеть не гуглит. Она собирает ответ из того, чему её научили — на основе статистики.&lt;/p&gt;
+&lt;h3 id=&#34;-как-строится-ответ&#34;&gt;⚙️ Как строится ответ&lt;/h3&gt;
+&lt;p&gt;Запрос разбивается на токены (смысловые единицы). Нейросеть пропускает их через слои и на каждом шаге решает: какой токен вероятнее всего идёт следующим? Так, токен за токеном, формируется ответ.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

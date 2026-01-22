@@ -74,16 +74,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Пусть делает ИИ"
+    Content: "Практичный канал об ИИ: от основ и инструментов до реальных кейсов. Ваша свобода, скорость и результат."
 
-  socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+  # socialIcons:
+  #   - name: x
+  #     url: "https://x.com/"
+  #   - name: stackoverflow
+  #     url: "https://stackoverflow.com"
+  #   - name: github
+  #     url: "https://github.com/"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -108,6 +108,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 1
     - identifier: categories
       name: categories
       url: /categories/
@@ -116,9 +120,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: platform
+      name: СИИБ платформа
+      url: https://platform.baigem.ru
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
