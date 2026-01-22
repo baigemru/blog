@@ -4,20 +4,16 @@ on:
     branches:
       - main
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: false
-
 defaults:
   run:
     shell: bash
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -97,7 +93,6 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
-
   deploy:
     environment:
       name: github-pages
