@@ -1,6 +1,5 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: ExampleSite
+baseURL: https://blog.baigem.ru
+title: BaiGem - Blog
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -15,9 +14,6 @@ caches:
 minify:
   disableXML: true
   minifyOutput: true
-
-pagination:
-  pagerSize: 5
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
