@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Blog
+  description: "Практичный канал об ИИ: от основ и инструментов до реальных кейсов. Ваша свобода, скорость и результат."
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
