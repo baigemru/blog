@@ -86,9 +86,11 @@ params:
   #     url: "https://github.com/"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # показывать везде
+    hiddenInList: true # показывать в списках (превью)
+    hiddenInSingle: true # НЕ показывать в отдельных постах
+    responsiveImages: true
+    linkFullImages: false
 
   editPost:
     URL: "https://github.com/<path_to_repo>/content"

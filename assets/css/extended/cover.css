@@ -1,0 +1,45 @@
+/* Простое пропорциональное масштабирование */
+.entry-cover {
+    text-align: center;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+    padding: 10px;
+}
+
+.entry-cover img {
+    max-height: 250px;
+    width: auto;
+    max-width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Для списка постов */
+.post-entry .entry-cover {
+    padding: 5px;
+}
+
+.post-entry .entry-cover img {
+    max-height: 150px;
+}
+
+/* Для отдельных постов */
+.single .entry-cover img {
+    max-height: 350px;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+    .entry-cover img {
+        max-height: 180px;
+    }
+
+    .post-entry .entry-cover img {
+        max-height: 120px;
+    }
+
+    .single .entry-cover img {
+        max-height: 250px;
+    }
+}
